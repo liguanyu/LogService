@@ -1,0 +1,500 @@
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
+I love you and time
+
+FFFFFFFFFFFFFFFFFFFFFFFFF
+Time to work!
+#include <iostream>
+#include <cstring>
+#include <string>
+
+I am a good man.
+I love Starcraft;
+Holy Shit.
+Hell, it's about time!
+How about I?
+How are you
